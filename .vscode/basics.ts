@@ -70,7 +70,7 @@ let  student = ["Bhanu","Ayush","Sid","Abhi","Rahul"]
 // console.log(newArray);
 
 //==============Example of filter Method =====================
-
+//=====================
 let mobile = [
     {
         "Brand" : "Apple",
